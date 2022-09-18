@@ -24,7 +24,11 @@ API consumida-https://economia.awesomeapi.com.br/last/
  
  instale a biblioteca requests usnado o comando no terminal ```pip install requests```
  
+ em seguida rode o arquivo main.py uma janela aparecera solicitando o codigo da moda para consulta 
+ 
+ digite o codigo desejado em letra maiuscula EX: USD , EUR , JPY e clic em pegar cotaçao 
+ 
 * atençao
 * só é possivel ver a cotaçao no par BRL
-* vc deve inserir o codigo da moeda que deseja converte para reais em letra maiuscula  
+* vc deve inserir o codigo da moeda que deseja em letra maiuscula  
 * site para consultar os codigos das moedas https://economia.awesomeapi.com.br/xml/available
