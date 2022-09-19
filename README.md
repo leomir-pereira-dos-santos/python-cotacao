@@ -22,7 +22,7 @@ API consumida-https://economia.awesomeapi.com.br/last/
  
  instale a biblioteca PySimpleGUI usando o comando no terminal ```pip install pysimplegui ```
  
- instale a biblioteca requests usnado o comando no terminal ```pip install requests```
+ instale a biblioteca requests usando o comando no terminal ```pip install requests```
  
  em seguida rode o arquivo main.py uma janela aparecera solicitando o codigo da moda para consulta 
  
