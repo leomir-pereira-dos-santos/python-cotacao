@@ -1,22 +1,22 @@
 # python-cotacao-de-moedas
-## consultar a cotaçao de moedas consumindo uma API 
+ consultar a cotaçao de moedas consumindo uma API 
 
-### [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-### linguagem utilizada 
+ [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+ linguagem utilizada 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 API consumida-https://economia.awesomeapi.com.br/last/
 
-## bibliotecas utilizadas
-## requests
-## PySimpleGui
+ bibliotecas utilizadas
+ requests
+ PySimpleGui
 
  ![COTAÇAODEMOEDAS](https://user-images.githubusercontent.com/110856729/190921762-e274203a-5663-477d-88f8-aa9a55eef045.PNG)
  
  
- # Como rodar o programa 
- ## clone o repositorio , depois abra em seu pycharm logo em seguida isntale as bibliotecas
+  Como rodar o programa 
+  clone o repositorio , depois abra em seu pycharm logo em seguida isntale as bibliotecas
  
  
  
