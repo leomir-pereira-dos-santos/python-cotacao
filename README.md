@@ -2,6 +2,8 @@
  consultar a cotaçao de moedas consumindo uma API 
 
  [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+ 
+ 
  linguagem utilizada 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -28,7 +30,7 @@ API consumida-https://economia.awesomeapi.com.br/last/
  
  digite o codigo desejado em letra maiuscula EX: USD , EUR , JPY e clic em pegar cotaçao 
  
-* atençao
+
 * só é possivel ver a cotaçao no par BRL
-* vc deve inserir o codigo da moeda que deseja em letra maiuscula  
+* voçe deve inserir o codigo da moeda que deseja ver a cotação em letra maiuscula  
 * site para consultar os codigos das moedas https://economia.awesomeapi.com.br/xml/available
