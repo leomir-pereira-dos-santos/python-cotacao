@@ -11,11 +11,11 @@
 API consumida-https://economia.awesomeapi.com.br/last/
 
  bibliotecas utilizadas
- requests
- PySimpleGui
+ * requests
+ * PySimpleGui
 
- ![COTAÇAODEMOEDAS](https://user-images.githubusercontent.com/110856729/190921762-e274203a-5663-477d-88f8-aa9a55eef045.PNG)
- 
+
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/99ef8c08069ab9d5a4f5ea64a5f8c480.gif" width="300" height="129" border="0" alt="https://picasion.com/" /></a>
  
   Como rodar o programa 
   clone o repositorio , depois abra em seu pycharm logo em seguida isntale as bibliotecas
